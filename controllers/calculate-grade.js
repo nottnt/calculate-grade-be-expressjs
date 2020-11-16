@@ -27,7 +27,7 @@ module.exports.setup = function (app) {
      *                          type: integer
      *     responses:
      *       200:
-     *         description: Create To Do List success
+     *         description: Calculate success
      */
 
     app.post('/calculateGrade', async (req, res) => {
