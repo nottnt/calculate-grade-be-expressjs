@@ -1,0 +1,20 @@
+{
+  "name": "calculate-grade-be-expressjs",
+  "version": "1.0.0",
+  "description": "service for calculate grade",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "nottnt",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "swagger-jsdoc": "^5.0.1",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
